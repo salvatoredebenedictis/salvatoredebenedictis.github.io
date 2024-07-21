@@ -22,8 +22,8 @@ repository               : "salvatoredebenedictis/salvatoredebenedictis.github.i
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Salvatore de Benedictis"
+  pronouns         : "he/him"  
   bio              : "BSc: Computer Science and Software Production Technology \\n
                       MSc: Computer Science - Artificial Intelligence"
   location         : "Andria, Italy"

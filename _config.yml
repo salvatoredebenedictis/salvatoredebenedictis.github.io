@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "BSc: Computer Science and Software Production Technology \n MSc: Computer Science - Artificial Intelligence"
+  bio              : "BSc: Computer Science and Software Production Technology \\n
+                      MSc: Computer Science - Artificial Intelligence"
   location         : "Andria, Italy"
   employer         : "University of Bari 'Aldo Moro'"
   uri              : # URL

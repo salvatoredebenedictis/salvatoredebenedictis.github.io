@@ -21,10 +21,10 @@ repository               : "salvatoredebenedictis/salvatoredebenedictis.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "icona profilo.jfif"
   name             : "Salvatore de Benedictis"
   pronouns         : "he/him"  
-  bio              : "BSc: Computer Science and Software Production Technology \\n
+  bio              : "BSc: Computer Science and Software Production Technology,
                       MSc: Computer Science - Artificial Intelligence"
   location         : "Andria, Italy"
   employer         : "University of Bari 'Aldo Moro'"

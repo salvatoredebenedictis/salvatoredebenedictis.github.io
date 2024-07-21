@@ -21,7 +21,7 @@ repository               : "salvatoredebenedictis/salvatoredebenedictis.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "icona profilo.jfif"
+  avatar           : "icona profilo.png"
   name             : "Salvatore de Benedictis"
   pronouns         : "he/him"  
   bio              : "BSc: Computer Science and Software Production Technology,

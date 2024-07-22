@@ -171,10 +171,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _pages/talks.html
-  - _pages/teaching.html
-  - _pages/publications.html
-  - _pages/portfolio.html
 keep_files:
   - .git
   - .svn
